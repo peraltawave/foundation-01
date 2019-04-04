@@ -1,0 +1,22 @@
+{
+  "name": "foundation",
+  "version": "1.0.0",
+  "description": "Foundation Site Template",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peraltawave/foundation-01.git"
+  },
+  "keywords": [
+    "foundation"
+  ],
+  "author": "Miguel Peralta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peraltawave/foundation-01/issues"
+  },
+  "homepage": "https://github.com/peraltawave/foundation-01#readme"
+}
